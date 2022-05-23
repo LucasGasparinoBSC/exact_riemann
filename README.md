@@ -2,8 +2,7 @@
 
 ## Description
 
-Exact Riemann solver based on the code of E. Toro. Given 2 discontinuous data states, will find the pressure and velocity in the star region, then create a sampling of the 
-3 main variables at a given time.
+Exact Riemann solver based on the code of E. Toro. Given 2 discontinuous data states, will find the pressure and velocity in the star region, then create a sampling of the 3 main variables at a given time.
 
 ## Usage
 
