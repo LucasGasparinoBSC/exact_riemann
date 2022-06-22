@@ -13,6 +13,3 @@ as well as print the star values at the end of the iterative process.
 
 Built using CMake and any fortran compiler. Create a buildd directory, then cmake [options] ..
 
-## Test
-
-Test commit
